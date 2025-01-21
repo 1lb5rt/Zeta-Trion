@@ -4,5 +4,16 @@
   "artist": "Alex Milne",
   "author": "Eric Holmes",
   "cover": "https://cdn.imgchest.com/files/yq9c3dp98o4.JPG",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1737470364",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1-4RD751K7reQJTvxGn0bS1yW09SKw6Kv"
+        ]
+      }
+    }
+  }
 }
